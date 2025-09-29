@@ -27,7 +27,7 @@ Install the following libraries in the Arduino IDE:
 |------------|------------|
 | VCC        | 3.3V       |
 | GND        | GND        |
-| DATA       | GPIO 15    |
+| DATA       | GPIO 4    |
 
 | OLED SSD1306 | ESP32      |
 |--------------|------------|
