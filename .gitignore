@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.DS_Store
+
+*.log
+*.tmp
+*.bak
+
+*.hex
+*.elf
+*.bin
